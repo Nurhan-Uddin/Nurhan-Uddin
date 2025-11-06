@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/nurhan-uddin-4803a6397/" target="_blank">Nurhan Uddin</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+%7C+PHP+%7C+Laravel+Developer;WordPress+Expert;Frontend+%26+Backend+Specialist;Lifelong+Learner+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;+PHP+%7C+Laravel+Developer;WordPress+Expert;Frontend+%26+Backend+Specialist;Lifelong+Learner+💻" alt="Typing SVG" />
 </p>
 
 ---
