@@ -31,19 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity:
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurhanUddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurhanUddin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NurhanUddin&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
 ### 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.facebook.com/hafezmohammed.nurhan" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -54,10 +41,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NurhanUddin&theme=onedark&no-frame=true&margin-w=5&margin-h=5" />
-</p>
 
 
 
-<p align="center">Thanks for visiting my profile! Stay creative & keep coding </p>
+<p align="center">✨Thanks for visiting my profile! Stay creative & keep coding 🚀</p>
