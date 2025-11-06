@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently learning **Laravel** and **Advanced WordPress Development**
-- 🌱 I love creating **responsive & dynamic web applications**
-- 💬 Ask me about **React, PHP, WordPress, or Laravel**
-- ⚡ Fun fact: I enjoy exploring **new tech stacks & UI animations**
+-  I’m currently learning **Laravel** and **Advanced WordPress Development**
+-  I love creating **responsive & dynamic web applications**
+-  Ask me about **React, PHP, WordPress, or Laravel**
+-  Fun fact: I enjoy exploring **new tech stacks & UI animations**
 
 ---
 
@@ -58,6 +58,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NurhanUddin&theme=onedark&no-frame=true&margin-w=5&margin-h=5" />
 </p>
 
----
 
-<p align="center">✨ Thanks for visiting my profile! Stay creative & keep coding 🚀</p>
+
+<p align="center">Thanks for visiting my profile! Stay creative & keep coding </p>
